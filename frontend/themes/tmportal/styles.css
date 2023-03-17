@@ -1,0 +1,10 @@
+@import url('./main-layout.css');
+@import url('./views/task-view.css');
+@import url('./views/group-chat-view.css');    html {
+      --lumo-space-xl: 1.875rem;
+      --lumo-space-l: 1.25rem;
+      --lumo-space-m: 0.625rem;
+      --lumo-space-s: 0.3125rem;
+      --lumo-space-xs: 0.1875rem;
+
+    }
